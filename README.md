@@ -14,7 +14,7 @@
     <h3>Link do Repoisitório Github</h3>
 </div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/algaworks/curso-especialista-jpa")](https://github.com/algaworks/curso-especialista-jpa")
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/algaworks/curso-especialista-jpa)](https://github.com/algaworks/curso-especialista-jpa")
 
 <h3>
    Informações pertinentes ao curso abaixo:
